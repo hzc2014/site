@@ -7,9 +7,9 @@
     	"url":"itms-apps://itunes.apple.com/cn/app/hello-h5+/id682211190?l=zh&mt=8"
     },
     "Android":{
-    	"version":"1.2",
-    	"title":"我的会计考试（恒志诚）(1.2)版本更新",
-    	"note":"一道题打两次导致解析时回显的选中答案不正确问题的解决。\n错题本中错题，下次答对后不能删除的问题解决，再次答错后不能更新的问题解决。",
+    	"version":"1.3",
+    	"title":"我的会计考试（恒志诚）(1.3)版本更新",
+    	"note":"解决bug",
     	"url":"http://hzc.yinbin.net/hzc-kuaiji.apk"
     }
 }
