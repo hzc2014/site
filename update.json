@@ -1,15 +1,15 @@
 {
     "appid":"H5291D269",
     "iOS":{
-    	"version":"1.1",
-    	"title":"我的会计考试（恒志诚）(1.1)版本更新",
+    	"version":"1.2",
+    	"title":"我的会计考试（恒志诚）(1.2)版本更新",
     	"note":"会计考试，离线版，iphone版本还没有提供，敬请期待。\n",
     	"url":"itms-apps://itunes.apple.com/cn/app/hello-h5+/id682211190?l=zh&mt=8"
     },
     "Android":{
-    	"version":"1.1",
-    	"title":"我的会计考试（恒志诚）(1.1)版本更新",
-    	"note":"会计考试，离线版\n",
-    	"url":"http://www.麦岛广场.com/kuaiji-1.1.apk"
+    	"version":"1.2",
+    	"title":"我的会计考试（恒志诚）(1.2)版本更新",
+    	"note":"解决一道题打两次导致解析时选中的答案不正确的问题\n错题本中错题，下次答对后不能删除的问题",
+    	"url":"http://hzc.yinbin.net/hzc-kuaiji.apk"
     }
 }
