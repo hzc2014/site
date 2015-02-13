@@ -1,15 +1,15 @@
 {
     "appid":"H5291D269",
     "iOS":{
-    	"version":"1.7",
-    	"title":"我的会计考试（恒志诚）(1.7)版本更新",
+    	"version":"1.8",
+    	"title":"我的会计考试（恒志诚）(1.8)版本更新",
     	"note":"会计考试，离线版，iphone版本还没有提供，敬请期待。\n",
     	"url":"itms-apps://itunes.apple.com/cn/app/hello-h5+/id682211190?l=zh&mt=8"
     },
     "Android":{
-    	"version":"1.7",
-    	"title":"我的会计考试(1.7)版本更新",
-    	"note":"解决某节中只有一道题时不能通关的问题",
+    	"version":"1.8",
+    	"title":"我的会计考试(1.8)版本更新",
+    	"note":"界面美化、操作优化",
     	"url":"http://hzc.yinbin.net/hzc-kuaiji.apk"
     }
 }
